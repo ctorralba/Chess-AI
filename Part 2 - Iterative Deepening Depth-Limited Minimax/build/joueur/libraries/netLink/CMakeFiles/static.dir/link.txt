@@ -1,0 +1,2 @@
+/usr/bin/ar qc out/libnetLink.a  CMakeFiles/static.dir/src/MsgPack.cpp.o CMakeFiles/static.dir/src/Socket.cpp.o CMakeFiles/static.dir/src/SocketManager.cpp.o CMakeFiles/static.dir/src/Utf8.cpp.o
+/usr/bin/ranlib out/libnetLink.a

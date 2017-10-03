@@ -1,0 +1,14 @@
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/CMakeFiles/edit_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/CMakeFiles/rebuild_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/CMakeFiles/cpp-client.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/CMakeFiles/dependencies.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/joueur/libraries/CMakeFiles/edit_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/joueur/libraries/CMakeFiles/rebuild_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/joueur/libraries/netLink/CMakeFiles/edit_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/joueur/libraries/netLink/CMakeFiles/rebuild_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/joueur/libraries/netLink/CMakeFiles/static.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/games/CMakeFiles/edit_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/games/CMakeFiles/rebuild_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/games/chess/CMakeFiles/edit_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/games/chess/CMakeFiles/rebuild_cache.dir
+/mnt/dfs/ct5w9/Users/ct5w9/linuxhome/chess/part2/christophertorralba/build/games/chess/CMakeFiles/Chess_additional.dir
